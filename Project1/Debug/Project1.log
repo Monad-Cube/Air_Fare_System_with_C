@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Learning Courses\Database Structure\Final_work\Project1\Project1\源.cpp(114,7): warning C4101: “mid”: 未引用的局部变量
+E:\Learning Courses\Database Structure\Final_work\Project1\Project1\源.cpp(661,10): warning C4101: “delnext2”: 未引用的局部变量
+  Project1.vcxproj -> E:\Learning Courses\Database Structure\Final_work\Project1\Debug\Project1.exe
